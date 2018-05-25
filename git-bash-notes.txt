@@ -1,0 +1,29 @@
+Git Hub
+
+cd to correct directory git log <filename> - History , shows all commits and changes if comments are well kept.
+    q - to exit log
+    
+git clone < http addresss> - clone repository to hard drive from git hub / http address
+
+git diff  - <commit> <commit>paste 2 commit numbers 
+
+git diff -u <filename1> <filename2> Compare 2 files
+
+coloured output - git config --global color.ui auto
+
+
+git checkout - <oldest commit> <newest commit>  . Veiw prevouis html versions to check for changes/bug start points.
+
+mv - move file 
+
+open Notepad++ with np <filename> in git bash
+
+create own git repository - go to directory where you want to create new repository then ,  git init 
+
+git status 
+
+git ls - show files in directory
+
+git ls -a -shows hidden files
+
+staging area - preview area before adding to repository - git add  then  run git staus to check
